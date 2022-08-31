@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, my name is Deren Marín 🐸 </h1>
 
 - 🧐 I’m interested in **Frontend Development**
-- 💻 I’m currently learning about **CSS and it's features**
+- 💻 I’m currently practicing **CSS and it's features**
 - 📩 Contact me via **derendavid02@gmail.com**
 - 🐸 Yes, i like frogs
 <!---
