@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deren</h1>
 <h3 align="center">A passionate frontend developer from Puerto Rico</h3>
 
-- 🌱 I’m currently learning **CSS, Bootstrap**
+- 🌱 I’m practicing learning **CSS
 
 - 📫 How to reach me **derendavid02@gmail.com**
 
