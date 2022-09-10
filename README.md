@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **derendavid02@gmail.com**
 
-- ⚡ Fun fact **I like frogs**
+- ⚡ Fun fact **i love cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
